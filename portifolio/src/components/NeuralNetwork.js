@@ -151,4 +151,4 @@ const NeuralNetwork = () => {
 
 export default NeuralNetwork;
 
-//dotimziado
+//odtimziado
